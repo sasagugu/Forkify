@@ -2,6 +2,9 @@
 
 Javascript course project.
 
+## Live demo
+https://sasagugu.github.io/Forkify/
+
 ### Installation
 
 Forkify requires [Node.js](https://nodejs.org/) to run its dependencies.
